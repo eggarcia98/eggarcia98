@@ -5,7 +5,7 @@
 📍 **Location**: Brisbane, Australia  
 📞 **Phone**: +61 426 432 597  
 ✉️ **Email**: [eggarcia9814@gmail.com](mailto:eggarcia9814@gmail.com)  
-🔗 **[LinkedIn](https://www.linkedin.com/in/eggarcia98/)** 
+<img src="https://github.com/user-attachments/assets/f2a65fe9-817e-4d7b-94ed-363832ec27b0" alt="LinkedIn" width="20" height="20"> **LinkedIn**: [eggarcia98](https://www.linkedin.com/in/eggarcia98/)
 <!-- | **[Portfolio](https://www.erickgarcia.dev)** -->
 
 ## 🚀 About Me
