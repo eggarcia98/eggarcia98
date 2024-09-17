@@ -1,4 +1,5 @@
 # 👋 Erick Gabriel Garcia Narvaez
+![GitHub stats](https://github-readme-stats-bay-two-61.vercel.app/api/top-langs?username=eggarcia98&show_icons=true&langs_count=10&layout=compact)
 
 **Software Engineer | Python | JavaScript | Java | PHP**
 
