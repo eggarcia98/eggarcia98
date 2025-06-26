@@ -52,7 +52,9 @@ _Telematics Engineer | May 2017 - Sep 2022_
 - Internet of Things, Cisco Networking Academy
 - English Proficiency (B2), Cambridge
 
+<!--
 ## 🌐 Languages
 
 - **English**: B2 level
 - **Spanish**: Native
+-->
