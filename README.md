@@ -1,5 +1,8 @@
 # Erick Garcia 🤓
-
+**Software Engineer | Python | JavaScript | Java | PHP**
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr border="0" cellspacing="0" cellpadding="0">
+    <td valign="top" width="60%" border="0" cellspacing="0" cellpadding="0">
 Software engineer who learned (the hard way) that things work great in diagrams  
 and behave very differently in production 😅
 
@@ -9,6 +12,15 @@ and then spend time making sure they *don’t* break when users actually show up
 📍 Brisbane, Australia  
 🌐 **[Portfolio](https://portfolio-5mk.pages.dev/)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/eggarcia98)**  
+
+  </td>
+  <td valign="top" width="40%" align="center">
+
+![GitHub stats](https://github-readme-stats-bay-two-61.vercel.app/api/top-langs?username=eggarcia98&show_icons=true&langs_count=10&layout=compact)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
