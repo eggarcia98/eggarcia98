@@ -4,11 +4,12 @@
   <tr border="0" cellspacing="0" cellpadding="0">
     <td valign="top" width="60%" border="0" cellspacing="0" cellpadding="0">
 Software engineer who learned (the hard way) that things work great in diagrams  
-and behave very differently in production 😅
-
+and behave very differently in production 😅   
+</br></br>
 I build backend services, deploy them to the cloud,  
 and then spend time making sure they *don’t* break when users actually show up.
-
+</br></br>   
+  
 📍 Brisbane, Australia  
 🌐 **[Portfolio](https://portfolio-5mk.pages.dev/)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/eggarcia98)**  
