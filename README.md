@@ -1,27 +1,78 @@
-# 👋 Erick Gabriel Garcia Narvaez
-![GitHub stats](https://github-readme-stats-bay-two-61.vercel.app/api/top-langs?username=eggarcia98&show_icons=true&langs_count=10&layout=compact)
+# Erick Garcia 🤓
 
-**Software Engineer | Python | JavaScript | Java | PHP**
+Software engineer who learned (the hard way) that things work great in diagrams  
+and behave very differently in production 😅
 
-<!--📍 **Location**: Brisbane, Australia  
-📞 **Phone**: +61 426 432 597   -->
-✉️ **Email**: [eggarcia9814@gmail.com](mailto:eggarcia9814@gmail.com)  
-<img src="https://github.com/user-attachments/assets/f2a65fe9-817e-4d7b-94ed-363832ec27b0" alt="LinkedIn" width="20" height="20"> **LinkedIn**: [eggarcia98](https://www.linkedin.com/in/eggarcia98/)
-<!-- | **[Portfolio](https://www.erickgarcia.dev)** -->
+I build backend services, deploy them to the cloud,  
+and then spend time making sure they *don’t* break when users actually show up.
 
-## 🚀 About Me
+📍 Brisbane, Australia  
+🌐 **[Portfolio](https://portfolio-5mk.pages.dev/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/eggarcia98)**  
 
-Enthusiastic Software Engineer with expertise in Python, JavaScript/TypeScript, Java, and PHP. Skilled in database management (MySQL, PostgreSQL), GraphQL, and cloud platforms (Google Cloud, Digital Ocean, Cloudflare). Passionate about creating scalable solutions and optimizing performance.
+---
 
-## 💼 Experience
+## 🛠 What I usually do (between bugs)
 
-**Semi Senior Programmer**  
-_Asimed Laboratories - Strategic Group (2 Years)_
+- Build backend services that look simple until they’re not 🐛  
+- Deploy containerized apps and whisper nice things to Docker ☁️  
+- Tune databases so they stop screaming at peak hours 🗄️  
+- Debug issues across software, infrastructure, and networking  
+- Fix problems caused by “it worked on my machine” 🔧  
 
-- ⚡ Improved query performance by 30%.
-- 🚀 Accelerated deployment cycles by 25%.
-- 🛠️ Enhanced service reliability by 20%.
-- 🔗 Reduced API sync errors by 40%.
-- 💡 Simplified health analyzer data integration by 50%.
-- ⚙️ Refactored legacy code to double response times.
+---
 
+## 🛠️ Tech I trust (most days)
+
+**💻 Backend**
+- TypeScript / Node.js (Fastify, Express)
+- REST APIs
+- SQL (PostgreSQL, MySQL)
+- Queries that start fast and slowly get… creative
+
+**☁️ Cloud & Infrastructure**
+- Docker (sometimes friendly, sometimes not)
+- Google Cloud (Cloud Run, IAM)
+- CI/CD pipelines
+- Linux (Ubuntu / Debian)
+- Bash scripts that definitely deserve comments
+
+**🌐 Networking**
+- TCP/IP fundamentals
+- VLANs, switching
+- Routing (OSPF, EIGRP)
+- Debugging network issues without unplugging everything (most of the time)
+
+---
+
+## 🗄 Stuff I’ve built (that survived production)
+
+> Most of my work lives in private repos because companies like their secrets 🔒
+
+- **HL7 Data Proxy (Cloud Run)**  
+  Stateless service that turns HL7 medical device output into JSON.  
+  Built so critical medical data keeps flowing even when something inevitably breaks 🐞
+
+- **Live Database Migration (MySQL → PostgreSQL)**  
+  Automated a live migration while the business was running.  
+  No downtime, lots of validation, and *way* too much coffee ☕☕☕
+
+- **ERP Middleware (Odoo)**  
+  Scheduled sync jobs that reduced accounting issues  
+  and saved humans from doing the same thing twice (everyone wins).
+
+More details, diagrams, and fewer jokes here:  
+👉 [https://portfolio.erick.dev](https://portfolio-5mk.pages.dev/)
+
+---
+
+## 📚 Background (the serious part, briefly)
+
+- Advanced Diploma in Telecommunications Engineering (in progress)  
+- Bachelor’s degree in Telematics Engineering  
+- Experience in healthcare systems, cloud platforms, and ops-heavy teams  
+
+---
+
+I like building systems that are reliable, understandable,  
+and fixable at 3am — preferably before the coffee runs out ☕😴
