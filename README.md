@@ -11,7 +11,7 @@ and then spend time making sure they *don’t* break when users actually show up
 </br></br>   
   
 📍 Brisbane, Australia  
-🌐 **[Portfolio](https://portfolio.byerick.dev/)**  
+🌐 **[Portfolio](https://portfolio.byerick.dev/?utm_source=github&utm_medium=bio&utm_campaign=portfolio)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/eggarcia98)**  
 
   </td>
