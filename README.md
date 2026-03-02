@@ -75,7 +75,7 @@ and then spend time making sure they *don’t* break when users actually show up
   and saved humans from doing the same thing twice (everyone wins).
 
 More details, diagrams, and fewer jokes here:  
-👉 [https://portfolio.erick.dev](https://portfolio-5mk.pages.dev/)
+👉 [https://portfolio.byerick.dev](https://portfolio.byerick.dev/)
 
 ---
 
