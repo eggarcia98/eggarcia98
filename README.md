@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://nextcloud.byerick.dev/s/i9fpcQnsKC9f3Wm/preview"
-    width="100%"
-    alt="Developer workspace banner"
-  />
-</p>
 
 # Erick Garcia 
 
