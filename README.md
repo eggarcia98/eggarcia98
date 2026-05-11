@@ -1,91 +1,126 @@
-# Erick Garcia 🤓
-**Software Engineer | Python | JavaScript | Java | PHP**
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr border="0" cellspacing="0" cellpadding="0">
-    <td valign="top" width="60%" border="0" cellspacing="0" cellpadding="0">
-Software engineer who learned (the hard way) that things work great in diagrams  
-and behave very differently in production 😅   
-</br></br>
-I build backend services, deploy them to the cloud,  
-and then spend time making sure they *don’t* break when users actually show up.
-</br></br>   
-  
+<p align="center">
+  <img
+    src="https://nextcloud.byerick.dev/s/KgSPdZW3WSKpDoK/preview"
+    width="100%"
+    alt="Developer workspace banner"
+  />
+</p>
+
+# ⚙️ Erick Garcia ⚙️
+
+**Software Engineer · Backend-focused · Cloud & Networking enthusiast**
+
+`BACKEND` `TYPESCRIPT / NODE.JS` `PYTHON` `CLOUD` `DEVOPS` `NETWORKING`
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 🧠 About me
+
+Software engineer based in **Brisbane, Australia**, with a background in **Telematics Engineering** and hands-on experience across backend systems, cloud deployments, databases, and networking.
+
+I build systems that are **reliable, understandable, and fixable at 3am** — preferably before the coffee runs out ☕😴
+
 📍 Brisbane, Australia  
 🌐 **[Portfolio](https://portfolio.byerick.dev/?utm_source=github&utm_medium=bio&utm_campaign=portfolio)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/eggarcia98)**  
 
-  </td>
-  <td valign="top" width="40%" align="center">
+</td>
+<td width="40%" align="center">
 
-![GitHub stats](https://github-readme-stats-bay-two-61.vercel.app/api/top-langs?username=eggarcia98&show_icons=true&langs_count=10&layout=compact)
+![Top Languages](https://github-readme-stats-bay-two-61.vercel.app/api/top-langs?username=eggarcia98&show_icons=true&langs_count=10&layout=compact&theme=tokyonight)
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠 What I usually do (between bugs)
+<div align="center">
 
-- Build backend services that look simple until they’re not 🐛  
-- Deploy containerized apps and whisper nice things to Docker ☁️  
-- Tune databases so they stop screaming at peak hours 🗄️  
-- Debug issues across software, infrastructure, and networking  
-- Fix problems caused by “it worked on my machine” 🔧  
+## 🛠 Tech Stack
 
----
+### Backend & APIs
 
-## 🛠️ Tech I trust (most days)
+<img src="https://img.shields.io/badge/TYPESCRIPT-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/NODE.JS-1e293b?style=for-the-badge&logo=nodedotjs&logoColor=22c55e"/>
+<img src="https://img.shields.io/badge/FASTIFY-334155?style=for-the-badge&logo=fastify&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-0f172a?style=for-the-badge&logo=express&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PYTHON-1e3a8a?style=for-the-badge&logo=python&logoColor=facc15"/>
 
-**💻 Backend**
-- TypeScript / Node.js (Fastify, Express)
-- REST APIs
-- SQL (PostgreSQL, MySQL)
-- Queries that start fast and slowly get… creative
+### Databases
 
-**☁️ Cloud & Infrastructure**
-- Docker (sometimes friendly, sometimes not)
-- Google Cloud (Cloud Run, IAM)
-- CI/CD pipelines
-- Linux (Ubuntu / Debian)
-- Bash scripts that definitely deserve comments
+<img src="https://img.shields.io/badge/POSTGRES-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/MYSQL-1e293b?style=for-the-badge&logo=mysql&logoColor=60a5fa"/>
+<img src="https://img.shields.io/badge/SUPABASE-064e3b?style=for-the-badge&logo=supabase&logoColor=22c55e"/>
+<img src="https://img.shields.io/badge/NEON-172554?style=for-the-badge&logo=postgresql&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/PRISMA-334155?style=for-the-badge&logo=prisma&logoColor=ffffff"/>
 
-**🌐 Networking**
-- TCP/IP fundamentals
-- VLANs, switching
-- Routing (OSPF, EIGRP)
-- Debugging network issues without unplugging everything (most of the time)
+### Cloud, DevOps & Infrastructure
 
----
+<img src="https://img.shields.io/badge/DOCKER-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/LINUX-1e293b?style=for-the-badge&logo=linux&logoColor=facc15"/>
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-1e3a8a?style=for-the-badge&logo=googlecloud&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CLOUDFLARE-7c2d12?style=for-the-badge&logo=cloudflare&logoColor=f97316"/>
+<img src="https://img.shields.io/badge/CI/CD-334155?style=for-the-badge&logo=githubactions&logoColor=38bdf8"/>
 
-## 🗄 Stuff I’ve built (that survived production)
+### Frontend
 
-> Most of my work lives in private repos because companies like their secrets 🔒
+<img src="https://img.shields.io/badge/NEXT.JS-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/REACT-172554?style=for-the-badge&logo=react&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/TAILWINDCSS-164e63?style=for-the-badge&logo=tailwindcss&logoColor=67e8f9"/>
 
-- **HL7 Data Proxy (Cloud Run)**  
-  Stateless service that turns HL7 medical device output into JSON.  
-  Built so critical medical data keeps flowing even when something inevitably breaks 🐞
+### Networking
 
-- **Live Database Migration (MySQL → PostgreSQL)**  
-  Automated a live migration while the business was running.  
-  No downtime, lots of validation, and *way* too much coffee ☕☕☕
+<img src="https://img.shields.io/badge/TCP/IP-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLANS-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROUTING-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SWITCHING-172554?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TROUBLESHOOTING-020617?style=for-the-badge"/>
 
-- **ERP Middleware (Odoo)**  
-  Scheduled sync jobs that reduced accounting issues  
-  and saved humans from doing the same thing twice (everyone wins).
-
-More details, diagrams, and fewer jokes here:  
-👉 [https://portfolio.byerick.dev](https://portfolio.byerick.dev/)
+</div>
 
 ---
 
-## 📚 Background (the serious part, briefly)
+## 🚀 Things I’ve Built
 
-- Advanced Diploma in Telecommunications Engineering (in progress)  
-- Bachelor’s degree in Telematics Engineering  
-- Experience in healthcare systems, cloud platforms, and ops-heavy teams  
+### HL7 Data Proxy — Cloud Run
+Stateless service that converts HL7 medical device output into JSON so healthcare data can move reliably between systems.
+
+### Live Database Migration — MySQL to PostgreSQL
+Automated a live migration while the business was running, reducing downtime and data inconsistencies.
+
+### ERP Middleware — Odoo
+Built scheduled sync jobs to reduce accounting issues and repetitive manual work.
+
+### Restaurant Web System
+Building a restaurant platform with **Next.js**, **Fastify**, **Supabase Auth**, **Neon PostgreSQL**, and **Prisma**.
 
 ---
 
-I like building systems that are reliable, understandable,  
-and fixable at 3am — preferably before the coffee runs out ☕😴
+## 📚 Background
+
+`TELEMATICS ENGINEERING` `TELECOMMUNICATIONS` `SOFTWARE DEVELOPMENT` `CLOUD SYSTEMS`
+
+- Advanced Diploma in Telecommunications Network Engineering — in progress  
+- Bachelor’s Degree in Telematics Engineering  
+- Experience with healthcare systems, cloud platforms, databases, networking, and operations-heavy environments  
+
+---
+
+<div align="center">
+
+### ⚡ Current Focus
+
+`BACKEND ARCHITECTURE` `AUTH SYSTEMS` `DATABASE DESIGN` `DEVOPS` `SELF-HOSTED INFRASTRUCTURE`
+
+<br/>
+
+**Systems work great in diagrams. Production likes to disagree. That is where I like to work.**
+
+</div>
